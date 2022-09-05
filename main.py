@@ -1,9 +1,8 @@
 from bot import Bot 
 from spot import Spot
 from utils import * 
+from creds import user_id, token 
 
-user_id = "" #userid https://www.spotify.com/us/account/overview/ > username
-token = "" #auth token https://developer.spotify.com/console/post-playlists/
 sUser = Spot(user_id, token)
 
 def main():
