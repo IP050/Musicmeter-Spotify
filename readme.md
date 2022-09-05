@@ -1,3 +1,4 @@
+### Overview ###
 * Uses https://www.musicmeter.nl/album/searchmisc
 * Selects the top albums based on rating, number of votes and year-range 
 * Gets the artist + top (n) tracks of each album
@@ -12,3 +13,5 @@
 3. get spotify username; userid https://www.spotify.com/us/account/overview/ > username
 4. run main.py - follow steps 
 
+### oh no my where my driver go ###
+* if web/chromedriver doesn't work from path just download and drag .exe in project folder 
