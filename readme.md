@@ -6,7 +6,7 @@
 * Creates a (public) playlist with a title+description based on the query
 * Adds al tracks in chunks of 100 to the playlist 
 * made for fun so use at own risk and don't blame me if it breaks
-* credits to https://github.com/TheComeUpCode/SpotifyGeneratePlaylist for spot class
+* credits to https://github.com/TheComeUpCode/SpotifyGeneratePlaylist for spot class(ty bro)
 
 ### Usage ###
 1. pip install -r requirements.txt
